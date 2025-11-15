@@ -1,6 +1,5 @@
 # MHAFR-DDI
-MHAFR-DDI: A hierarchical alignment-based multimodal fusion framework for enhancing drug interaction prediction
-
+MHAFR-DDI: A multimodal hierarchical attention fusion and relation-aware architecture for drug–drug interaction event prediction
 ## Pretrained model
 You can find our pretrained MHAFR-DDI in `/save`.
 

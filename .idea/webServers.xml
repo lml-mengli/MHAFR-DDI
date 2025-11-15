@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b10761d-27ac-4489-9503-632effd1d03e" name="tijiao">
+        <fileTransfer rootFolder="/home/limengli/PythonProject/Crossddi-master-tijiao" accessType="SFTP" host="hk.wei-group.net" port="20022" sshConfigId="20777401-e33d-4703-9985-bce50f987daa" sshConfig="limengli@hk.wei-group.net:20022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
